@@ -6,8 +6,6 @@ This is the backend for voice channels and LAN servers in eaglercraft
 
 it links with TeaVM EaglerAdapter at runtime
 
-Copyright 2022 ayunami2000 & lax1dude. All rights reserved.
-
 */
 
 
