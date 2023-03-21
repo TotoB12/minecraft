@@ -1,2 +1,2 @@
-# PrecisionClient-Static
- The static web files for Precision Client
+# TotoB12-Static
+ The static web files for TotoB12 Client
